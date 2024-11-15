@@ -1,0 +1,11 @@
+Basic commands :
+-sudo dnf update
+-pwd : print working directory
+-ls
+-ls -a
+-cd : tochange directory
+
+File and directory management :
+-touch : to create a file
+-mkdir : to create a folder
+-mv + the new file name + the old one : to change file name 
